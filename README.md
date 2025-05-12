@@ -6,9 +6,11 @@ StayEase is a full-stack web application inspired by Airbnb. It allows users to 
 
 ### Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript (React)
+- **Frontend**: React with TypeScript, Next.js for server-side rendering and static site generation, TailwindCSS for styling.
+- **Backend**: Python, Django, and MySQL (for illustration purposes; the backend is not the primary focus).
 - **Version Control**: Git and GitHub
 - **Design Tools**: Figma for UI/UX
+- **Other Tools**: Redux or Context API for state management, REST for API integration, Jest for testing.
 
 ---
 
